@@ -1,0 +1,8 @@
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\Debug\RFID_EPC_Project_x64.exe
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\Debug\RFID_EPC_Project_x64.pdb
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project_x64.csprojResolveAssemblyReference.cache
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project.Form1.resources
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project.Properties.Resources.resources
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project_x64.csproj.GenerateResource.Cache
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project_x64.exe
+C:\Users\GBORDEROLLE-PC\Desktop\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_SDK(EN)\RFID_EPC_Project_Testing\obj\Debug\RFID_EPC_Project_x64.pdb
